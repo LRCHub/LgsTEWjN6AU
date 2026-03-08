@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "追風",
+  "base_artist": "Kamui",
+  "createdAt": "2026-03-08T06:17:44.916841Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "追風 135",
+      "artist": "Burning Island",
+      "has_synced": true,
+      "path": "select/01_追風_135_Burning_Island.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "追風",
+      "artist": "Kamui",
+      "has_synced": false,
+      "path": "select/pl_01_追風_Kamui.txt"
+    }
+  ]
+}
